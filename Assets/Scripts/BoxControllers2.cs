@@ -32,7 +32,7 @@ public class BoxControllers2 : MonoBehaviour
                 Debug.Log("2");
                 ativado = true;
             }
-            else if (Input.GetKeyDown(KeyCode.Alpha1) || Input.GetKeyDown(KeyCode.Alpha3))//desativa os outros quadrados, 1 e 3 de se moverem quando ativado
+            else if (Input.GetKeyDown(KeyCode.Alpha1) || Input.GetKeyDown(KeyCode.Alpha3) || Input.GetKeyDown(KeyCode.Alpha4))//desativa os outros quadrados, 1  3 e 4 de se moverem quando ativado
         {
                 ativado = false;
             }

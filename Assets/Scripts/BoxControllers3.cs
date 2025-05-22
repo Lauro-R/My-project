@@ -14,6 +14,8 @@ public class BoxControllers3 : MonoBehaviour
     [SerializeField]
     float movSpeed;
     public bool ativado = false;
+    [SerializeField]//Permite modificação pela ui da engine para a informação abaixo
+    private Transform player;
 
     [HideInInspector] //serve para esconder uma informação no Unity
     public string nome;
@@ -39,7 +41,8 @@ public class BoxControllers3 : MonoBehaviour
             if (ativado)
             {
             FuncVelocity();
-            }
+            transform.position = player.transform.position + new Vector3(5, 1, 5);//Faz com que o objeto que utiliza esse script siga o player
+        }
         
     }
     void FuncVelocity()//recebe um vetor bidimensional, e adiciona a velocidade em tempo real dele (o quanto o jogador aperta a setinha)

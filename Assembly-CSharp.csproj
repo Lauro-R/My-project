@@ -81,6 +81,7 @@
     <Compile Include="Assets\Scripts\Inimigo.cs" />
     <Compile Include="Assets\Scripts\DoorOpenCheck.cs" />
     <Compile Include="Assets\Scripts\Fisica2.cs" />
+    <Compile Include="Assets\Scripts\BoxControllers4.cs" />
     <Compile Include="Assets\Scripts\PlayerPrefas.cs" />
   </ItemGroup>
   <ItemGroup>

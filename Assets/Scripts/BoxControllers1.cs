@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEngine.UI.CanvasScaler;
+using UnityEngine.UIElements;
 
 public class BoxControllers1 : MonoBehaviour
 {
@@ -31,9 +33,9 @@ public class BoxControllers1 : MonoBehaviour
             {
                 Debug.Log("1");
                 ativado = true;
-                
-            }
-            else if (Input.GetKeyDown(KeyCode.Alpha2) || Input.GetKeyDown(KeyCode.Alpha3))//desativa os outros cubos quando o botão acima (Alpha1) é apertado utilizando a booleana abaixo.
+
+        }
+            else if (Input.GetKeyDown(KeyCode.Alpha2) || Input.GetKeyDown(KeyCode.Alpha3) || Input.GetKeyDown(KeyCode.Alpha4))//desativa os outros cubos quando o botão acima (Alpha1) é apertado utilizando a booleana abaixo.
             {
                 ativado = false;
             }
