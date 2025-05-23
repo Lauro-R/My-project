@@ -28,22 +28,13 @@ void Update()
     if (Input.GetKeyDown(KeyCode.Alpha4))//ativa o quadrado amarelo para se mover
     {
         Debug.Log("4");
-        ativado = true;
-        transform.Rotate(novarota);
-            if (Input.GetKeyDown(KeyCode.J))
-            {
-                Debug.Log("J");
-                transform.localScale *= valorEscalaN;
-            }
-            if (Input.GetKeyDown(KeyCode.K))
-            {
-                Debug.Log("K");
-                transform.localScale *= -valorEscalaS;
-            }
+            ativado = true;
+            transform.Rotate(novarota);
+            transform.localScale *= valorEscalaN;
         }
         else if (Input.GetKeyDown(KeyCode.Alpha1) || Input.GetKeyDown(KeyCode.Alpha2) || Input.GetKeyDown(KeyCode.Alpha3))//desativa os outros quadrados, 1 e 2 e 3 de se moverem quando ativado
         {
             ativado = false;
         }
     }
-}
+    }

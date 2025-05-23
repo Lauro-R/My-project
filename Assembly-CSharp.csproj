@@ -74,6 +74,7 @@
     <Compile Include="Assets\Scripts\PlayerAttack.cs" />
     <Compile Include="Assets\Scripts\teste.cs" />
     <Compile Include="Assets\Scripts\Resetter.cs" />
+    <Compile Include="Assets\Scripts\Raycastere.cs" />
     <Compile Include="Assets\Scripts\CameraFollowManager.cs" />
     <Compile Include="Assets\Scripts\Spikes.cs" />
     <Compile Include="Assets\Scripts\CoinDoorOpen.cs" />

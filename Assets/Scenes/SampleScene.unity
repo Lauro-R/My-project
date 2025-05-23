@@ -1129,9 +1129,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ativado: 0
-  novarota: {x: 5, y: 5, z: 0}
-  valorEscalaN: 1
-  valorEscalaS: 1
+  novarota: {x: 0, y: 0, z: 5}
+  valorEscalaN: 1.2
+  valorEscalaS: -0.8
   nome: 
 --- !u!212 &637180581
 SpriteRenderer:
@@ -1194,7 +1194,7 @@ Transform:
   m_GameObject: {fileID: 637180579}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.97, y: 4.55, z: 0}
+  m_LocalPosition: {x: -1.97, y: 4.55, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1341,7 +1341,6 @@ GameObject:
   - component: {fileID: 680761993}
   - component: {fileID: 680761992}
   - component: {fileID: 680761991}
-  - component: {fileID: 680761994}
   m_Layer: 0
   m_Name: Particle System
   m_TagString: Untagged
@@ -6213,24 +6212,12 @@ Transform:
   m_GameObject: {fileID: 680761990}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 28.5, y: 19, z: -0.3}
+  m_LocalPosition: {x: 19.89, y: -0.17, z: -0.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
---- !u!114 &680761994
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 680761990}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06260b70b6221e24498176fb36a57a3f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &702711613
 GameObject:
   m_ObjectHideFlags: 0
@@ -8307,6 +8294,10 @@ PrefabInstance:
       propertyPath: forcaTiro
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 2733981448853971650, guid: d5fe2daf9d0a2904c81a62bed6e8dea7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3083583351982830955, guid: d5fe2daf9d0a2904c81a62bed6e8dea7, type: 3}
       propertyPath: m_Name
       value: Player
@@ -8407,10 +8398,26 @@ PrefabInstance:
     - target: {fileID: 3989156589073247081, guid: f5655b3b97c42e9409102133c0b0b879, type: 3}
       propertyPath: tiro
       value: 
-      objectReference: {fileID: 2050168588714337365, guid: cb92ae5a2ea04cb449911aba04e0fca5, type: 3}
+      objectReference: {fileID: 6848281458356758370, guid: 90c64606ff59e4643821f8119ac7a088, type: 3}
     - target: {fileID: 6424304742335078632, guid: f5655b3b97c42e9409102133c0b0b879, type: 3}
       propertyPath: m_Name
       value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433920690349719827, guid: f5655b3b97c42e9409102133c0b0b879, type: 3}
+      propertyPath: m_Size.x
+      value: 2.4316254
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433920690349719827, guid: f5655b3b97c42e9409102133c0b0b879, type: 3}
+      propertyPath: m_Size.y
+      value: 2.2589006
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433920690349719827, guid: f5655b3b97c42e9409102133c0b0b879, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.19869232
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433920690349719827, guid: f5655b3b97c42e9409102133c0b0b879, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.41486716
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -41,7 +41,6 @@ public class BoxControllers3 : MonoBehaviour
             if (ativado)
             {
             FuncVelocity();
-            transform.position = player.transform.position + new Vector3(5, 1, 5);//Faz com que o objeto que utiliza esse script siga o player
         }
         
     }

@@ -45,8 +45,8 @@ GameObject:
   - component: {fileID: 2733981448853971650}
   - component: {fileID: 2289606099381283038}
   - component: {fileID: 8647408201908312769}
-  - component: {fileID: 4315770287619853071}
   - component: {fileID: 1993972090851368939}
+  - component: {fileID: -5345752271470271471}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -231,21 +231,6 @@ MonoBehaviour:
   vectorPhysics: {x: 1, y: 1, z: 1}
   moveSpeed: 10
   nome: 
---- !u!114 &4315770287619853071
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3083583351982830955}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 90a96910078627640bb699c6935b26d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  vectorPhysics: {x: 0, y: 0, z: 0}
-  cole: 
-  speed: 0
 --- !u!114 &1993972090851368939
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -261,6 +246,19 @@ MonoBehaviour:
   bomb: {fileID: 2050168588714337365, guid: cb92ae5a2ea04cb449911aba04e0fca5, type: 3}
   forcaTiro: 10
   posTiro: {fileID: 6902177761623729087}
+--- !u!114 &-5345752271470271471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3083583351982830955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1444b54da3195a489a64776c933def9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distancia: 10
 --- !u!1 &5320574300636695589
 GameObject:
   m_ObjectHideFlags: 0
