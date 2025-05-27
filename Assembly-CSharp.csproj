@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\AudioMixerManager.cs" />
     <Compile Include="Assets\Scripts\BoxControllers1.cs" />
     <Compile Include="Assets\Scripts\BoxControllers2.cs" />
+    <Compile Include="Assets\Scripts\MenuCaller.cs" />
     <Compile Include="Assets\Scripts\Danmaku.cs" />
     <Compile Include="Assets\Scripts\Fisica.cs" />
     <Compile Include="Assets\Scripts\PlayerAttack.cs" />
@@ -81,7 +82,6 @@
     <Compile Include="Assets\Scripts\FonteAudio.cs" />
     <Compile Include="Assets\Scripts\Inimigo.cs" />
     <Compile Include="Assets\Scripts\DoorOpenCheck.cs" />
-    <Compile Include="Assets\Scripts\Fisica2.cs" />
     <Compile Include="Assets\Scripts\BoxControllers4.cs" />
     <Compile Include="Assets\Scripts\PlayerPrefas.cs" />
   </ItemGroup>

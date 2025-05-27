@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Audio;
 
 public class PlayerAttack : MonoBehaviour
 {
@@ -10,11 +11,13 @@ public class PlayerAttack : MonoBehaviour
     float forcaTiro = 10;
     [SerializeField]
     Transform posTiro;
+    [SerializeField]
+    AudioSource playerSFX;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+       //playerSFX = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame

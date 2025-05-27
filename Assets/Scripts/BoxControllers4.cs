@@ -29,8 +29,8 @@ void Update()
     {
         Debug.Log("4");
             ativado = true;
-            transform.Rotate(novarota);
-            transform.localScale *= valorEscalaN;
+            transform.Rotate(novarota);//rotaciona o cubo 4 amarelo quando ativado
+            transform.localScale *= valorEscalaN;//aumenta a escala do cubo 4 quando ativado
         }
         else if (Input.GetKeyDown(KeyCode.Alpha1) || Input.GetKeyDown(KeyCode.Alpha2) || Input.GetKeyDown(KeyCode.Alpha3))//desativa os outros quadrados, 1 e 2 e 3 de se moverem quando ativado
         {

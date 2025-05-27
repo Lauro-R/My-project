@@ -3,7 +3,11 @@ guid: 83bac89537ba3d34999109108a936bb0
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - myMix: {fileID: 24100000, guid: e90aeb9f44970414392f238f45472923, type: 2}
+  - padrao: {fileID: 24500006, guid: e90aeb9f44970414392f238f45472923, type: 2}
+  - Battle: {fileID: 6880918558932949797, guid: e90aeb9f44970414392f238f45472923, type: 2}
+  - Overworld: {fileID: 8645506156141427412, guid: e90aeb9f44970414392f238f45472923, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -17,7 +17,7 @@ public class SaveManager : MonoBehaviour
         PlayerPrefs.SetFloat("player_yPos", Player.transform.position.y);//guarda o float y do jogador
         PlayerPrefs.Save();//Salva os valores dentro do Registro
     }
-    public void ClearData()
+    public void ClearData()//função que limpa a informação acima
     {
         PlayerPrefs.DeleteAll();
     }
