@@ -41,7 +41,7 @@ public class Resolutions : MonoBehaviour
         Debug.Log($"Width: {resolucoesPCPlayer[indice].width} Height {resolucoesPCPlayer[indice].height}");//imprime o valor do set resolution
         Screen.SetResolution(resolucoesPCPlayer[indice].width,  //para ficar mais facil de ler
                              resolucoesPCPlayer[indice].height,
-                             fullScreen.isOn);
+                             fullScreen.isOn);//checa se o fullscreen está ligado, e coloca a resolução escolhida
     }
 
     void GetResolutions()

@@ -1,3 +1,4 @@
+														https://github.com/Lauro-R/My-project
 Relatório de Desenvolvimento(por favor maximize o txt para ficar mais facil de ler onde cada coisa está:)
 	(1) Mecânicas [3.0]
 		(a) Transform									//Transform
@@ -55,8 +56,8 @@ Relatório de Desenvolvimento(por favor maximize o txt para ficar mais facil de 
 		(a) Instanciar Objeto [0.1]								//Bombinhas do Player e do inimigo instanciadas
 		(b) Destruir Objeto [0.1]								// O player destruindo na porta e pelos projeteis do inimigo
 		(c) Pegar um componente de outro objeto (GetComponent) [0.5]				// FonteAudio.cs , Bombinha.cs , PlayerAttack.cs , Danmaku.cs , Fisica.cs
-		(d) Utilização de Enumerator [0.3]							// Inimigo.cs 
-		(e) Persistencia de Informação entre cenas [0.5]					// mudança de volume entre a cena main menu e samplescene , contido no SaveManager.cs
+		(d) Utilização de Enumerator [0.3]							// 
+		(e) Persistencia de Informação entre cenas [0.5]					//
 		(f) Persistencia de informação após o jogo fechar [0.5]					// contido no SaveManager.cs
 		
 	(6) Comentar o código: 15% da Nota								//todos os códigos comentados

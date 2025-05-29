@@ -3,7 +3,8 @@ guid: c1444b54da3195a489a64776c933def9
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - VisualRaycast: {fileID: 3598908369890843797, guid: d858396be06e5f142994f9f40ba83781, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
