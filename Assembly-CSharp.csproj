@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\BoxControllers3.cs" />
     <Compile Include="Assets\Scripts\SaveManager.cs" />
     <Compile Include="Assets\Scripts\AudioMixerManager.cs" />
+    <Compile Include="Assets\Scripts\PauseTheGame.cs" />
     <Compile Include="Assets\Scripts\BoxControllers1.cs" />
     <Compile Include="Assets\Scripts\BoxControllers2.cs" />
     <Compile Include="Assets\Scripts\MenuCaller.cs" />
@@ -79,6 +80,7 @@
     <Compile Include="Assets\Scripts\CameraFollowManager.cs" />
     <Compile Include="Assets\Scripts\Spikes.cs" />
     <Compile Include="Assets\Scripts\CoinDoorOpen.cs" />
+    <Compile Include="Assets\Scripts\Resolutions.cs" />
     <Compile Include="Assets\Scripts\FonteAudio.cs" />
     <Compile Include="Assets\Scripts\Inimigo.cs" />
     <Compile Include="Assets\Scripts\DoorOpenCheck.cs" />

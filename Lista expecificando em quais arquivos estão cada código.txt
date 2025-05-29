@@ -1,57 +1,57 @@
-Relatório de Desenvolvimento
+Relatório de Desenvolvimento(por favor maximize o txt para ficar mais facil de ler onde cada coisa está:)
 	(1) Mecânicas [3.0]
-		(a) Transform
-			- Mudança de posição de um objeto pelo Position [0.1] 				//contido nos seguintes scripts: CameraFollowManager.cs, Fisica.cs, BoxControllers1.cs
-			- Mudança da Rotação de um Objeto [0.1] 					//contido no seguinte script: BoxControllers4.cs
-			- Mudança da Escala de um Objeto [0.1] 						//contido no seguinte script: BoxControllers4.cs
-		(b) Rigidbody
-			- Movimentação de objeto por AddForce [0.1] 					//contido no seguinte script: BoxControllers2.cs
-			- Movimentação de objeto por MovePosition [0.2] 				//contido no seguinte script: BoxControllers1.cs
-			- Movimentação de Objeto por Velocity [0.3] 					//contido no seguinte script: BoxControllers3.cs
-			- Um objeto influenciar em outro (AddForce, MovePosition ou Velocity) [0.5] 	//contido no seguinte script: BoxControllers3.cs
-		(c) Colisão
+		(a) Transform									//Transform
+			- Mudança de posição de um objeto pelo Position [0.1] 				//Contido nos seguintes scripts: CameraFollowManager.cs, Fisica.cs, BoxControllers1.cs
+			- Mudança da Rotação de um Objeto [0.1] 					//Contido no seguinte script: BoxControllers4.cs
+			- Mudança da Escala de um Objeto [0.1] 						//Contido no seguinte script: BoxControllers4.cs
+		(b) Rigidbody									//Rigidbody
+			- Movimentação de objeto por AddForce [0.1] 					//Contido no seguinte script: BoxControllers2.cs
+			- Movimentação de objeto por MovePosition [0.2] 				//Contido no seguinte script: BoxControllers1.cs
+			- Movimentação de Objeto por Velocity [0.3] 					//Contido no seguinte script: BoxControllers3.cs
+			- Um objeto influenciar em outro (AddForce, MovePosition ou Velocity) [0.5] 	//Contido no seguinte script: BoxControllers3.cs
+		(c) Colisão									//Colisão
 			- Detecção de colisão via componente da Unity (OnCllision / OnTrigger) [0.3]   	//Contido no Seguinte script: CoinDoorOpen.cs , 
-			- Detecção de colisão por layer/tag específica [0.5]    			//contido nos seguintes scripts: Raycastere.cs , Spikes.cs , Bombinha.cs , Danmaku.cs , CoinDoorOpen.cs , DoorOpenCheck.cs
+			- Detecção de colisão por layer/tag específica [0.5]    			//Contido nos seguintes scripts: Raycastere.cs , Spikes.cs , Bombinha.cs , Danmaku.cs , CoinDoorOpen.cs , DoorOpenCheck.cs
 			- Gatilho de detecção por evento ou input (Overlap / Cast) [0.5]    		//Contido no seguinte script: Raycastere.cs
-			- Utilização de Gizmo para feedback no editor [0.3] 				//contido no seguinte script: Raycastere.cs
+			- Utilização de Gizmo para feedback no editor [0.3] 				//Contido no seguinte script: Raycastere.cs
 			
-	(2) UI [3.5]
+	(2) UI [3.5]										//UI
 		(a) In Game  
-			- Pausar Jogo
+			- Pausar Jogo									//Contido na SampleScene , PauseTheGame.cs
 				- Congelar e Descongelar com fluxo do Menu [0.3]			//
 				- Botão de Fechar o Menu de Pause [0.1]					//
 				- Botão Menu [0.1]							//
 				- Botão Fechar o Jogo (com confirmação de SIM ou NÃO para fechar) [0.3]	//
-			- HUD
+			- HUD									//HUD
 				- Timer com o tempo jogando [0.5]					//
-		(b) Menu 
+		(b) Menu 											//Menu
 			- Menu Inicial com botões de Iniciar, Configurações, Explicações do Jogo e Créditos [0.4] // Implementado na cena MainMenu
 			- Créditos dos envolvidos e de assets utilizados [0.2]				// Implementado na cena MainMenu
 			- Configurações: Botão de Voltar para o Menu [0.1]				// Implementado na cena MainMenu
 			- Configurações: Slider de Volume [0.5]						// Implementado na cena MainMenu
-			- Como Jogar: Explicando como funciona o jogo [0.2]				// Implementado na cena SampleScene
+			- Como Jogar: Explicando como funciona o jogo [0.2]				// Implementado na cena MainMenu e na SampleScene
 			- Como Jogar: Botão de Voltar para o Menu [0.1]					// 
-		(c) Resolução 0.7
-			- Opção Tela Cheia (ativar e desativar) [0.2]					//
-			- Mostrar pelo menos 5 opções de resolução [0.5]				//
+		(c) Resolução 0.7								//Resolução
+			- Opção Tela Cheia (ativar e desativar) [0.2]					//Implementado no Main Menu, Resolutions.cs
+			- Mostrar pelo menos 5 opções de resolução [0.5]				//Implementado no Main Menu, Resolutions.cs
 			
-	(3) Gráficos [1.5]
+	(3) Gráficos [1.5]									//Gráficos
 		(a) Animação
 			- Animação em Loop [0.1]							// O player_idle no object Player
 			- Animação via Input [0.5]							// O player atirando com o spacebar
-		(b) Particulas
+		(b) Particulas									//Particulas
 			- Constantes [0.2]								// Contido no projeto com os gameObjects:o particlesystem filho do objeto player,  Star na pasta Particles, e nos seguinte scripts Danmaku.cs 
 			- Por Input [0.5]								// Contido no movimento do Player
-		(c) Tilemap
+		(c) Tilemap									//Tilemap
 			- Camada básica [0.1]								//
 			- Segunda Camada [0.1]								//
 			
-	(4) Áudio [0.5]
+	(4) Áudio [0.5]										//Audio
 		(a) Audio disparado por Input [0.1]							// Audio que toca quando o player atira
 		(b) Sons dos elementos de UI (Botões) [0.3]						// Audio que toca quando o slider de volume é mexido
 		(c) Som ambiente [0.1]									// Musica de fundo do projeto
 		
-	(5) Conceitos de Programação [2.0]								
+	(5) Conceitos de Programação [2.0]							//Conceitos de Programação								
 		(a) Instanciar Objeto [0.1]								//Bombinhas do Player e do inimigo instanciadas
 		(b) Destruir Objeto [0.1]								// O player destruindo na porta e pelos projeteis do inimigo
 		(c) Pegar um componente de outro objeto (GetComponent) [0.5]				// FonteAudio.cs , Bombinha.cs , PlayerAttack.cs , Danmaku.cs , Fisica.cs
