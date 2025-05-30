@@ -246,6 +246,7 @@ MonoBehaviour:
   bomb: {fileID: 2050168588714337365, guid: cb92ae5a2ea04cb449911aba04e0fca5, type: 3}
   forcaTiro: 10
   posTiro: {fileID: 6902177761623729087}
+  playerSFX: {fileID: 0}
 --- !u!114 &-5345752271470271471
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -259,6 +260,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   distancia: 10
+  VisualRaycast: {fileID: 0}
+  posTiro: {fileID: 6902177761623729087}
 --- !u!1 &5320574300636695589
 GameObject:
   m_ObjectHideFlags: 0

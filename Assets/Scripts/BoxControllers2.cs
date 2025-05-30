@@ -43,6 +43,6 @@ public class BoxControllers2 : MonoBehaviour
     }
     void FuncAddForce()//empurra o objeto em uma direção
     {
-        meuRigidbody.AddForce(vetorFisica);
+        meuRigidbody.AddForce(vetorFisica);//pega os valores do vector3 vetor fisica e adiciona a força no rigidbody do objeto com esta função
     }
 }

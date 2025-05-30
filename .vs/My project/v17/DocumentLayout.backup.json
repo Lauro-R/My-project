@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "D:\\unity projects\\teste\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity projects\\teste\\my project\\assets\\scripts\\resolutions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resolutions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity projects\\teste\\my project\\assets\\scripts\\pausethegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\danmaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\danmaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\audiomixermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomixermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\resetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\bombinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bombinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\bombprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bombprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\pausethegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausethegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\menucaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menucaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity projects\\teste\\my project\\assets\\scripts\\resolutions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resolutions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\raycastere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\mainmenuoptionsexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\danmaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\danmaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,28 +79,8 @@
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dooropencheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\bombprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bombprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\bombinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bombinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\resetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\audiomixermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomixermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\raycastere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity projects\\teste\\My project\\assets\\scripts\\boxcontrollers2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,49 +114,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PauseTheGame.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\PauseTheGame.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PauseTheGame.cs",
               "ToolTip": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\PauseTheGame.cs",
               "RelativeToolTip": "Assets\\Scripts\\PauseTheGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T19:20:56.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Resolutions.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Resolutions.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Resolutions.cs",
               "ToolTip": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Resolutions.cs",
               "RelativeToolTip": "Assets\\Scripts\\Resolutions.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wCgAAACOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T19:08:53.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "MenuCaller.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\MenuCaller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuCaller.cs",
               "ToolTip": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\MenuCaller.cs",
               "RelativeToolTip": "Assets\\Scripts\\MenuCaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T01:07:49.63Z"
+              "WhenOpened": "2025-05-27T01:07:49.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "teste.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\teste.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\teste.cs",
@@ -168,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Spikes.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Spikes.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spikes.cs",
@@ -180,15 +181,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 10,
               "Title": "Raycastere.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Raycastere.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Raycastere.cs",
               "ToolTip": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Raycastere.cs",
               "RelativeToolTip": "Assets\\Scripts\\Raycastere.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:53:05.831Z"
+              "WhenOpened": "2025-05-22T22:53:05.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -204,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 3,
               "Title": "AudioMixerManager.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\AudioMixerManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AudioMixerManager.cs",
@@ -212,35 +214,38 @@
               "RelativeToolTip": "Assets\\Scripts\\AudioMixerManager.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwDYAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T02:08:33.532Z"
+              "WhenOpened": "2025-05-18T02:08:33.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Inimigo.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Inimigo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inimigo.cs",
               "ToolTip": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Inimigo.cs",
               "RelativeToolTip": "Assets\\Scripts\\Inimigo.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:04:31.01Z"
+              "WhenOpened": "2025-05-17T19:04:31.01Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "MainMenuOptionsExit.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\MainMenuOptionsExit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuOptionsExit.cs",
               "ToolTip": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\MainMenuOptionsExit.cs",
               "RelativeToolTip": "Assets\\Scripts\\MainMenuOptionsExit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T18:44:41.994Z"
+              "WhenOpened": "2025-05-16T18:44:41.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 4,
               "Title": "Resetter.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Resetter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Resetter.cs",
@@ -248,11 +253,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Resetter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T16:29:07.061Z"
+              "WhenOpened": "2025-05-16T16:29:07.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Collision.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Collision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Collision.cs",
@@ -264,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Bombinha.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Bombinha.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bombinha.cs",
@@ -272,11 +278,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Bombinha.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T00:12:36.206Z"
+              "WhenOpened": "2025-04-25T00:12:36.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "BombProjectile.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\BombProjectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BombProjectile.cs",
@@ -284,11 +291,12 @@
               "RelativeToolTip": "Assets\\Scripts\\BombProjectile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T00:06:44.254Z"
+              "WhenOpened": "2025-03-14T00:06:44.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "PlayerAttack.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
@@ -296,11 +304,12 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerAttack.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T22:46:14.421Z"
+              "WhenOpened": "2025-03-13T22:46:14.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Danmaku.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Danmaku.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Danmaku.cs",
@@ -308,11 +317,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Danmaku.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:53:32.284Z"
+              "WhenOpened": "2025-04-24T23:53:32.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "DoorOpenCheck.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\DoorOpenCheck.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DoorOpenCheck.cs",
@@ -324,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "CoinDoorOpen.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\CoinDoorOpen.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CoinDoorOpen.cs",
@@ -336,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "SaveManager.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\SaveManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SaveManager.cs",
@@ -348,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "BoxControllers3.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\BoxControllers3.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BoxControllers3.cs",
@@ -360,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "FonteAudio.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\FonteAudio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FonteAudio.cs",
@@ -372,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "BoxControllers1.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\BoxControllers1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BoxControllers1.cs",
@@ -384,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Fisica.cs",
               "DocumentMoniker": "D:\\unity projects\\teste\\My project\\Assets\\Scripts\\Fisica.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Fisica.cs",

@@ -11,8 +11,6 @@ public class PlayerAttack : MonoBehaviour
     float forcaTiro = 10;
     [SerializeField]
     Transform posTiro;
-    [SerializeField]
-    AudioSource playerSFX;
 
     // Start is called before the first frame update
     void Start()

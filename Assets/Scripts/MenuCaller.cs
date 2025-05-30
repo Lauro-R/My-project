@@ -19,6 +19,8 @@ public class MenuCaller : MonoBehaviour
     {
         
     }
+    //enum Telas {Pause = 1, ComoJogar = 2}
+
     public void HideAll()//esconde os outros menus
     {
         telaBacktoMenu.SetActive(false);

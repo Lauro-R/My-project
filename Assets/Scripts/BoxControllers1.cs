@@ -46,7 +46,7 @@ public class BoxControllers1 : MonoBehaviour
     }
     void FuncMovePosition()//move o objeto baseado no transform pelo Move Position
     {
-        Vector3 posFinal = this.transform.position + vetorFisica;
-        meuRigidbody.MovePosition(posFinal);
+        Vector3 posFinal = this.transform.position + vetorFisica;//pega o vector3 da posição final e adiciona o transform + o vetorFisica colocado na Unity
+        meuRigidbody.MovePosition(posFinal);//move o rigidbody desse objeto
     }
 }

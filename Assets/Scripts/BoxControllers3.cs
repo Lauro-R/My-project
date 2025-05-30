@@ -49,9 +49,9 @@ public class BoxControllers3 : MonoBehaviour
         float velHorizontal;
         float velVertical;
 
-        velHorizontal = Input.GetAxis("Horizontal");
-        velVertical = Input.GetAxis("Vertical");
+        velHorizontal = Input.GetAxis("Horizontal");//move no axis horizontal do movimento
+        velVertical = Input.GetAxis("Vertical");//move no axis vertical do movimento
 
-        meuRigidbody.velocity = new Vector2(velHorizontal, velVertical) * movSpeed;
+        meuRigidbody.velocity = new Vector2(velHorizontal, velVertical) * movSpeed;//faz com que o rigidbody desse objeto seja afetado pela movspeed * o vector2 
     }
 }
